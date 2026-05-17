@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 🏦 Finance Tracker Pro (SaaS Analytics Dashboard)
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
@@ -21,3 +22,6 @@ graph TD
     C --> D[Plotly Visualizations]
     A --> E[SQLAlchemy ORM]
     E --> F[(SQLite Database)]
+=======
+# finance-tracker-pro
+>>>>>>> 88cc3d12b7d0b982ee8394addf7b4b13704399f9
